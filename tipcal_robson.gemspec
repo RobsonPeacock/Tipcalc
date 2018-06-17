@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["robson.peacock@ringley.co.uk"]
 
   spec.summary       = %q{A gem which calculates a tip based on a string, integer or float input}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/RobsonPeacock/tipcalc"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
